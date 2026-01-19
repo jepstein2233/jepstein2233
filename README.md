@@ -1,9 +1,14 @@
-Resume
-- 📗 Studying Information Technology and Cybersecurity at St. Philip's College
+Who Am I:
+
+- 📗 Education:
+- 🎓 Studying Information Technology and Cybersecurity at St. Philip's College
 - 🎓 I have a M.S. in Exercise Science from the University of Texas - Arlington
 - 🎓 I have a B.A. in Psychology from the University of West Florida
-- 📌 CompTIA Network+
-- 📌 Cisco IT Customer Support Basics
+- 
+- 📜 Certifications:
+- CompTIA Network+
+- Cisco IT Customer Support Basics
+- 
 - 🔧 Technical Skills:
 - Help Desk Support
 - Troubleshooting
@@ -17,15 +22,15 @@ Resume
 - TCP/IP
 - Printer Support
 - Networking Fundamentals
--  Microsoft 365 Administration Basics
--  Google Workspace Admin
--  System Configuration
--  Hardware Support
--  Software Support
--  Device Imaging (basic)
--  Security Best Practices
--  Documentation
--  Escalation Procedures
+- Microsoft 365 Administration Basics
+- Google Workspace Admin
+- System Configuration
+- Hardware Support
+- Software Support
+- Device Imaging (basic)
+- Security Best Practices
+- Documentation
+- Escalation Procedures
 <!--
 **jepstein2233/jepstein2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
